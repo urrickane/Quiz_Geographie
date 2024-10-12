@@ -8,3 +8,13 @@ D:\Boulot\CITISE 2\Projet C#\Projet - Quiz Géo v3\Projet - Quiz Géo v3\obj\Deb
 D:\Boulot\CITISE 2\Projet C#\Projet - Quiz Géo v3\Projet - Quiz Géo v3\obj\Debug\Projet - Quiz Géo v3.csproj.CoreCompileInputs.cache
 D:\Boulot\CITISE 2\Projet C#\Projet - Quiz Géo v3\Projet - Quiz Géo v3\obj\Debug\Projet - Quiz Géo v3.exe
 D:\Boulot\CITISE 2\Projet C#\Projet - Quiz Géo v3\Projet - Quiz Géo v3\obj\Debug\Projet - Quiz Géo v3.pdb
+D:\Boulot\CITISE 2\Projet C#\git quiz géo\Quiz_Geographie\Projet - Quiz Géo v3\bin\Debug\Projet - Quiz Géo v3.exe.config
+D:\Boulot\CITISE 2\Projet C#\git quiz géo\Quiz_Geographie\Projet - Quiz Géo v3\bin\Debug\Projet - Quiz Géo v3.exe
+D:\Boulot\CITISE 2\Projet C#\git quiz géo\Quiz_Geographie\Projet - Quiz Géo v3\bin\Debug\Projet - Quiz Géo v3.pdb
+D:\Boulot\CITISE 2\Projet C#\git quiz géo\Quiz_Geographie\Projet - Quiz Géo v3\obj\Debug\Projet - Quiz Géo v3.csprojAssemblyReference.cache
+D:\Boulot\CITISE 2\Projet C#\git quiz géo\Quiz_Geographie\Projet - Quiz Géo v3\obj\Debug\Projet___Quiz_Géo_v3.FrmMain.resources
+D:\Boulot\CITISE 2\Projet C#\git quiz géo\Quiz_Geographie\Projet - Quiz Géo v3\obj\Debug\Projet___Quiz_Géo_v3.Properties.Resources.resources
+D:\Boulot\CITISE 2\Projet C#\git quiz géo\Quiz_Geographie\Projet - Quiz Géo v3\obj\Debug\Projet - Quiz Géo v3.csproj.GenerateResource.cache
+D:\Boulot\CITISE 2\Projet C#\git quiz géo\Quiz_Geographie\Projet - Quiz Géo v3\obj\Debug\Projet - Quiz Géo v3.csproj.CoreCompileInputs.cache
+D:\Boulot\CITISE 2\Projet C#\git quiz géo\Quiz_Geographie\Projet - Quiz Géo v3\obj\Debug\Projet - Quiz Géo v3.exe
+D:\Boulot\CITISE 2\Projet C#\git quiz géo\Quiz_Geographie\Projet - Quiz Géo v3\obj\Debug\Projet - Quiz Géo v3.pdb
