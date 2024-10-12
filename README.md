@@ -3,4 +3,4 @@ Projet C# réalisé en deuxième année de prépa. Il s'agit d'un quiz de géogr
 
 ## Exécution
 - Récupérez le projet;
-- Lancez Projet Géographie.lnk
+- Lancez Projet Géographie.lnk.
